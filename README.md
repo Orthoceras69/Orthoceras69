@@ -21,4 +21,7 @@ My name is Florian BERTHIER, I'm a Freelance Web Developer and Integrator. Also 
 
 ## How to contact me :
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/%E2%98%91-florian-berthier-105ba2179/)](https://www.linkedin.com/in/%E2%98%91-florian-berthier-105ba2179/) 
+Florian BERTHIER :
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/%E2%98%91-florian-berthier-105ba2179/)](https://www.linkedin.com/in/%E2%98%91-florian-berthier-105ba2179/)
+
