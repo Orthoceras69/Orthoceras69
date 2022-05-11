@@ -30,4 +30,5 @@ Florian BERTHIER :
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-violet?style=for-the-badge&logo=Twitch&l&color=black&link=https://www.twitch.tv/orthoceras_)](https://www.twitch.tv/orthoceras_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&l&color=black&link=https://www.instagram.com/flo_brthr/)](https://www.instagram.com/flo_brthr/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&l&color=black&link=https://www.facebook.com/florianbrthr)](https://www.facebook.com/florianbrthr)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&l&color=black&link=https://www.discordapp.com/users/Orthoceras#6318)](https://www.discordapp.com/users/Orthoceras#6318)
 [![Website Badge](https://img.shields.io/badge/-Website-white?style=for-the-badge&logo=website&l&color=black&link=https://florian-berthier.com)](https://florian-berthier.com)
