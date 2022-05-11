@@ -25,7 +25,7 @@ My name is Florian BERTHIER, I'm a Freelance Web Developer and Integrator. Also 
 
 Florian BERTHIER :
 
-<br><br>
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=black&link=https://www.linkedin.com/in/%E2%98%91-florian-berthier-105ba2179/)](https://www.linkedin.com/in/%E2%98%91-florian-berthier-105ba2179/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-violet?style=for-the-badge&logo=Twitch&l&color=black&link=https://www.twitch.tv/orthoceras_)](https://www.twitch.tv/orthoceras_)
