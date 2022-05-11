@@ -29,5 +29,5 @@ Florian BERTHIER :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&color=black&link=https://www.linkedin.com/in/%E2%98%91-florian-berthier-105ba2179/)](https://www.linkedin.com/in/%E2%98%91-florian-berthier-105ba2179/)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-violet?style=for-the-badge&logo=Twitch&l&color=black&link=https://www.twitch.tv/orthoceras_)](https://www.twitch.tv/orthoceras_)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&l&color=black&link=https://www.instagram.com/flo_brthr/)](https://www.instagram.com/flo_brthr/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Instagram&l&color=black&link=https://www.facebook.com/florianbrthr)](https://www.facebook.com/florianbrthr)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&l&color=black&link=https://www.facebook.com/florianbrthr)](https://www.facebook.com/florianbrthr)
 [![Website Badge](https://img.shields.io/badge/-Website-white?style=for-the-badge&logo=website&l&color=black&link=https://florian-berthier.com)](https://florian-berthier.com)
